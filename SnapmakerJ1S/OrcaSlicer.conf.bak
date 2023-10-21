@@ -1,0 +1,82 @@
+{
+    "app": {
+        "allow_ip_resolve": "1",
+        "associate_3mf": false,
+        "associate_step": false,
+        "associate_stl": false,
+        "backup_interval": "10",
+        "backup_switch": true,
+        "curr_bed_type": "3",
+        "dark_color_mode": "0",
+        "developer_mode": false,
+        "download_path": "C:\\Users\\admin\\Downloads",
+        "drop_project_action": true,
+        "enable_ssl_for_ftp": true,
+        "enable_ssl_for_mqtt": true,
+        "flush_multiplier": "0.300000",
+        "installed_networking": "1",
+        "internal_developer_mode": false,
+        "iot_environment": "3",
+        "keyboard_supported": "none/alt/control/shift",
+        "language": "en_US",
+        "last_backup_path": "C:\\Users\\admin\\AppData\\Local\\Temp/orcaslicer_model/Sat_Oct_21/11_34_11#19696#32",
+        "max_recent_count": "18",
+        "mouse_supported": "mouse left/mouse middle/mouse right",
+        "mouse_wheel": "0",
+        "move_view": "none/mouse left",
+        "precise_control": "none/mouse left",
+        "preset_folder": "",
+        "privacy_version": "00.00.00.00",
+        "region": "Europe",
+        "rotate_view": "none/mouse left",
+        "severity_level": "info",
+        "show_build_edgets": false,
+        "show_daily_tips": true,
+        "show_gcode_window": true,
+        "show_hints": true,
+        "show_home_page": true,
+        "show_model_mesh": false,
+        "show_model_shadow": true,
+        "show_printable_box": true,
+        "single_instance": false,
+        "slicer_uuid": "f557bba5-689a-4b82-ac3d-230a53741f88",
+        "staff_pick_switch": true,
+        "stealth_mode": false,
+        "sync_system_preset": true,
+        "sync_user_preset": false,
+        "sys_menu_enabled": "1",
+        "toolkit_size": "98",
+        "units": "0",
+        "use_inches": "0",
+        "use_legacy_3DConnexion": true,
+        "use_perspective_camera": true,
+        "version": "01.07.04.52",
+        "zoom_to_mouse": false,
+        "zoom_view": "none/mouse left"
+    },
+    "firstguide": {
+        "finish": true
+    },
+    "header": "OrcaSlicer 1.7.0",
+    "orca_presets": [
+        {
+            "curr_bed_type": "3",
+            "filament": "Default Filament",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Default Printer",
+            "process": "Default Setting"
+        }
+    ],
+    "presets": {
+        "filaments": null,
+        "machine": "Default Printer"
+    },
+    "print": {
+        "bed_leveling": "1",
+        "flow_cali": "1",
+        "timelapse": "1"
+    }
+}
+# MD5 checksum 7F1F464D06BF0AC707AA2E9A53B59C18
