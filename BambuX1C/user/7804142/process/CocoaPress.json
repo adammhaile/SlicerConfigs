@@ -1,0 +1,17 @@
+{
+    "bottom_shell_layers": "4",
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_print_height": "0.15",
+    "is_custom_defined": "0",
+    "layer_height": "0.15",
+    "name": "CocoaPress",
+    "print_settings_id": "CocoaPress",
+    "sparse_infill_density": "25%",
+    "sparse_infill_pattern": "gyroid",
+    "top_shell_layers": "5",
+    "top_shell_thickness": "0",
+    "version": "1.7.0.18",
+    "wall_loops": "3"
+}

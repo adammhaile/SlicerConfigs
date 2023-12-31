@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "0.20mm 0.4 Standard @Snapmaker J1",
+    "is_custom_defined": "0",
+    "name": "0.20mm",
+    "post_process": [
+        "C:/Users/admin/SlicerConfigs/SnapmakerJ1S/smfix.exe"
+    ],
+    "print_settings_id": "0.20mm",
+    "version": "1.5.4.1"
+}

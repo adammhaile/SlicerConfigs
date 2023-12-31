@@ -1,4 +1,11 @@
 {
+    "access_code": {
+        "00M09A341101763": "24866838",
+        "00M09A341902692": "f972d292"
+    },
+    "ams_filament_ids": {
+        "00M09A341101763": "GFA00"
+    },
     "app": {
         "allow_ip_resolve": "1",
         "associate_3mf": false,
@@ -6,7 +13,7 @@
         "associate_stl": false,
         "backup_interval": "10",
         "backup_switch": true,
-        "curr_bed_type": "3",
+        "curr_bed_type": "4",
         "dark_color_mode": "0",
         "developer_mode": false,
         "download_path": "C:\\Users\\admin\\Downloads",
@@ -19,13 +26,24 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_US",
-        "last_backup_path": "C:\\Users\\admin\\AppData\\Local\\Temp/orcaslicer_model/Sat_Oct_21/11_24_09#3976#32",
+        "last_backup_path": "C:\\Users\\admin\\AppData\\Local\\Temp/orcaslicer_model/Sun_Dec_31/11_02_56#35248#47",
+        "last_export_path": "C:\\Users\\admin\\Downloads",
         "max_recent_count": "18",
         "mouse_supported": "mouse left/mouse middle/mouse right",
         "mouse_wheel": "0",
         "move_view": "none/mouse left",
         "precise_control": "none/mouse left",
-        "preset_folder": "",
+        "preset_folder": "7804142",
+        "print_host_queue_dialog_column_0": "80",
+        "print_host_queue_dialog_column_1": "80",
+        "print_host_queue_dialog_column_2": "80",
+        "print_host_queue_dialog_column_3": "80",
+        "print_host_queue_dialog_column_4": "80",
+        "print_host_queue_dialog_column_5": "80",
+        "print_host_queue_dialog_height": "60",
+        "print_host_queue_dialog_width": "30",
+        "print_host_queue_dialog_x": "5950",
+        "print_host_queue_dialog_y": "77",
         "privacy_version": "00.00.00.00",
         "region": "Europe",
         "rotate_view": "none/mouse left",
@@ -45,16 +63,37 @@
         "sync_system_preset": true,
         "sync_user_preset": false,
         "sys_menu_enabled": "1",
-        "toolkit_size": "98",
+        "toolkit_size": "100",
         "units": "0",
         "use_inches": "0",
         "use_legacy_3DConnexion": true,
         "use_perspective_camera": true,
+        "user_mode": "advanced",
         "version": "01.07.04.52",
-        "window_mainframe": "360; 176; 1200; 800; 0",
+        "window_mainframe": "0; 0; 2566; 1392; 0",
         "zoom_to_mouse": false,
         "zoom_view": "none/mouse left"
     },
+    "arrange": {
+        "enable_rotation_fff": true,
+        "min_object_distance_fff": "2"
+    },
+    "calis": [
+        {
+            "cali_finished": 1,
+            "dev_id": "00M09A341902692",
+            "flow_ratio": 0.949999988079071,
+            "presets": [
+                {
+                    "filament_id": "GFG99",
+                    "name": "Generic PETG",
+                    "nozzle_diameter": 0.4000000059604645,
+                    "setting_id": "GFSG99",
+                    "tray_id": 0
+                }
+            ]
+        }
+    ],
     "filaments": [
         "Bambu ABS @BBL P1P",
         "Bambu ABS @BBL P1P 0.2 nozzle",
@@ -102,6 +141,10 @@
         "Bambu PLA Matte @BBL X1C",
         "Bambu PLA Matte @BBL X1C 0.2 nozzle",
         "Bambu PLA Matte @BBL X1C 0.8 nozzle",
+        "Bambu PLA-CF @BBL P1P",
+        "Bambu PLA-CF @BBL P1P 0.8 nozzle",
+        "Bambu PLA-CF @BBL X1C",
+        "Bambu PLA-CF @BBL X1C 0.8 nozzle",
         "Bambu Support W @BBL P1P",
         "Bambu Support W @BBL P1P 0.2 nozzle",
         "Bambu Support W @BBL X1",
@@ -172,11 +215,25 @@
             "vendor": "BBL"
         }
     ],
+    "mouse_device:LOGITECH::UNKNOWN": {
+        "invert_pitch": "0",
+        "invert_roll": "0",
+        "invert_x": "0",
+        "invert_y": "0",
+        "invert_yaw": "0",
+        "invert_z": "0",
+        "rotation_deadzone": "0",
+        "rotation_speed": "1",
+        "swap_yz": "0",
+        "translation_deadzone": "0",
+        "translation_speed": "1",
+        "zoom_speed": "1"
+    },
     "orca_presets": [
         {
-            "curr_bed_type": "3",
-            "filament": "Bambu PLA Basic @BBL X1C",
-            "filament_colors": "#26A69A",
+            "curr_bed_type": "4",
+            "filament": "Generic PLA",
+            "filament_colors": "#FFF144",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Bambu Lab X1 Carbon 0.4 nozzle",
@@ -198,8 +255,19 @@
     },
     "print": {
         "bed_leveling": "1",
-        "flow_cali": "1",
-        "timelapse": "1"
+        "flow_cali": "0",
+        "timelapse": "0"
+    },
+    "recent": {
+        "last_opened_folder": "C:\\Users\\admin\\Downloads",
+        "settings_folder": "S:\\Data\\Adam\\CocoaPress"
+    },
+    "recent_projects": {
+        "01": "C:\\Users\\admin\\Downloads\\A380.3mf",
+        "02": "S:\\Data\\Adam\\AR4_Robot\\AllPrints.3mf",
+        "03": "S:\\Data\\Adam\\CocoaPress\\CocoaPress_AccentColors.3mf",
+        "04": "S:\\Data\\Adam\\CocoaPress\\Cocoa Press 3D Printed Parts\\logo_insert_multicolor.3mf",
+        "05": "S:\\Data\\Adam\\CocoaPress\\CocoaPress_BaseColors.3mf"
     }
 }
-# MD5 checksum F5BE43B6B61B8FB67ACF7E2F84AA4215
+# MD5 checksum A2952526BA080637BEDE6392F59E31ED
