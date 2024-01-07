@@ -1,0 +1,15 @@
+{
+    "bottom_shell_layers": "4",
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Strength @BBL X1C",
+    "is_custom_defined": "0",
+    "layer_height": "0.15",
+    "name": "0.15mm Strength",
+    "print_settings_id": "0.15mm Strength",
+    "seam_position": "nearest",
+    "top_shell_layers": "4",
+    "top_shell_thickness": "0",
+    "version": "1.7.0.30",
+    "wall_loops": "4"
+}
