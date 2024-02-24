@@ -1,0 +1,15 @@
+{
+    "bottom_shell_layers": "4",
+    "bridge_angle": "120",
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Strength @BBL X1C",
+    "name": "0.2mm Ramp",
+    "print_settings_id": "0.2mm Ramp",
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "gyroid",
+    "top_shell_layers": "4",
+    "top_shell_thickness": "0",
+    "version": "1.7.0.10",
+    "wall_loops": "3"
+}

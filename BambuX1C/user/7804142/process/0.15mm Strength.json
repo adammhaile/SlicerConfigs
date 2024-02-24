@@ -8,6 +8,7 @@
     "name": "0.15mm Strength",
     "print_settings_id": "0.15mm Strength",
     "seam_position": "nearest",
+    "sparse_infill_pattern": "gyroid",
     "top_shell_layers": "4",
     "top_shell_thickness": "0",
     "version": "1.7.0.30",

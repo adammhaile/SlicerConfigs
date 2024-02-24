@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "Bambu Lab X1 Carbon 0.8 nozzle",
+    "is_custom_defined": "0",
+    "name": "Bambu Lab X1 Carbon 1.0 nozzle",
+    "nozzle_diameter": [
+        "1"
+    ],
+    "printer_settings_id": "Bambu Lab X1 Carbon 1.0 nozzle",
+    "version": "1.8.0.13"
+}
